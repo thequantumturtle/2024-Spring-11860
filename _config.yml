@@ -1,13 +1,13 @@
 # configuration
 # fill in the course details
  
-courseName: "Quantum Computing Theory and Lab"
+courseName: "Quantum Computing, Cryptography and Machine Learning Lab"
 
 # small title that is at the top of every page
-subtitle: "11-860 — Quantum Computing Theory and Lab — Spring Semester 2022"
+subtitle: "11860 - Quantum Computing, Cryptography and Machine Learning Lab — Spring Semester 2024"
 
 # baseurl is the same as the name of the repository
-baseurl: /QuantumSpring2022
+baseurl: /11860_QuantumComputing_Spring2024
 
 # url where the required reading is available to download
 docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 
