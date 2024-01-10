@@ -14,7 +14,7 @@ Tuesday and Thursday (5:00pm to 6:20pm EST @ DH 1211)
 
 
 ## Announcements!
-The first few classes will be done remotely! Do **NOT** show up to BH235A or else you will be lonely!
+The first few classes will be done remotely! Do **NOT** show up to DH 1211 or else you will be lonely!
 Class can be found on Zoom right [**HERE**]().
 
 ## Location
@@ -48,36 +48,36 @@ Most weeks are designed to be 1 day of lecture and 1 day of lab.
 
 
 ## Schedule
-[**Day 1**](syllabus/1-Introduction.html): Transition from Classical to Quantum Computing - **Lecture**   
-[**Day 2**](syllabus/2-Classical-To-Quantum.html): 1 Qubit Gates and Measurement - **Lecture**   
-[**Day 3**](syllabus/3-One-Qubit.html): BB84, No Cloning, No Signaling - **Lecture**  
-[**Day 4**](syllabus/4-Intro-Lab.html): Setup and Single Qubit - **Lab**  
-[**Day 5**](syllabus/5-Quantum-Basis.html): BB84 - **Lab**  
-[**Day 6**](syllabus/6-Measuring-In-Bases.html): Multiple Qubit Gates - **Lecture**  
-[**Day 7**](syllabus/7-Qubit-Applications.html): Quantum Teleportation - **Lecture**   
-[**Day 8**](syllabus/8-Changing-Basis.html): Multi-Qubit Gates and Teleportation - **Lab**  
-[**Day 9**](syllabus/9-CHSH.html): CHSH and composing arbitrary circuits - **Lecture**  
-[**Day 10**](syllabus/10-CHSH.html): Classical to Quantum Logic Gates and Circuits - **Lab**  
-[**Day 11**](syllabus/11-Multi-Qubit-Gates.html): QHT, Deutsche's - **Lecture**  
-[**Day 12**](syllabus/12-BB84.html): Deutsche's - **Lab**  
-[**Day 13**](syllabus/13-Entanglement.html): Amplititude Amplification & Simon's - **Lecture**  
-[**Day 14**](syllabus/14-Multi-Qubit-Lab.html): Grover's and 3SAT - **Lab**  
-[**Spring Break**]()  
-[**Spring Break**]()  
-[**Day 15**](syllabus/15-Quantum-Teleportation.html): Quantum Fourier Transform (QFT) - **Lecture**  
-[**Day 16**](syllabus/16-Quantum-Teleportation.html): Shor’s Algorithm for Integer Factorization - **Lab**  
-[**Day 17**](syllabus/17-Simon-&-Deutsch.html): Quantum OTP, Q Secret Sharing and Q Secure Direct Communication - **Lecture**   
-[**Day 18**](syllabus/18-Simon-&-Deutsch.html): Quantum one-time pad - **Lab**  
-[**Day 19**](syllabus/19-Quantum-Search.html): Introduction to ML and QML - **Lecture**  
-[**Day 20**](syllabus/20-Quantum-Search.html): Q Optimization Algorithms - QAOA and VQE - **Lecture**  
-[**Day 21**](syllabus/21-QFT.html): Neural Networks - **Lecture**  
-[**Day 22**](syllabus/22-QFT.html): QNN - **Lab**  
-[**Day 23**](syllabus/23-Shots.html): GANS & QGANS - **Lecture**  
-[**Day 24**](syllabus/24-Shors.html): GUEST LECTURE - Intro to CudaQuantum    
-[**Day 25**](syllabus/25-Advanced-Topic.html): GUEST LAB - CudaQuantum  
-[**Day 26**](syllabus/26-Presentation.html): Advanced Topics or Hardware - **Lecture**   
-[**Day 27**](syllabus/26-Presentation.html): Project Presentations  (4/25/2022 Thursday)  
+**Day 1**: Transition from Classical to Quantum Computing - **Lecture**   
+**Day 2**: 1 Qubit Gates and Measurement - **Lecture**   
+**Day 3**: BB84, No Cloning, No Signaling - **Lecture**  
+**Day 4**: Setup and Single Qubit - **Lab**  
+**Day 5**: BB84 - **Lab**  
+**Day 6**: Multiple Qubit Gates - **Lecture**  
+**Day 7**: Quantum Teleportation - **Lecture**   
+**Day 8**: Multi-Qubit Gates and Teleportation - **Lab**  
+**Day 9**: CHSH and composing arbitrary circuits - **Lecture**  
+**Day 10**: Classical to Quantum Logic Gates and Circuits - **Lab**  
+**Day 11**: QHT, Deutsche's - **Lecture**  
+**Day 12**: Deutsche's - **Lab**  
+**Day 13**: Amplititude Amplification & Simon's - **Lecture**  
+**Day 14**: Grover's and 3SAT - **Lab**  
+**Spring Break**  
+**Spring Break**  
+**Day 15**: Quantum Fourier Transform (QFT) - **Lecture**  
+**Day 16**: Shor’s Algorithm for Integer Factorization - **Lab**  
+**Day 17**: Quantum OTP, Q Secret Sharing and Q Secure Direct Communication - **Lecture**   
+**Day 18**: Quantum one-time pad - **Lab**  
+**Day 19**: Introduction to ML and QML - **Lecture**  
+**Day 20**: Q Optimization Algorithms - QAOA and VQE - **Lecture**  
+**Day 21**: Neural Networks - **Lecture**  
+**Day 22**: QNN - **Lab**  
+**Day 23**: GANS & QGANS - **Lecture**  
+**Day 24**: GUEST LECTURE - Intro to CudaQuantum - [**Monica Van Dieren**]()    
+**Day 25**: GUEST LAB - CudaQuantum - [**Monica Van Dieren**]()  
+**Day 26**: Advanced Topics or Hardware - **Lecture**   
+**Day 27**: Project Presentations  (4/25/2022 Thursday)  
 
 
 
-*Schedule with assignments, readings, etc. can be found [here](schedule.html)*
+<!-- *Schedule with assignments, readings, etc. can be found [here](schedule.html)* -->

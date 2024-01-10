@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Schedule
 layout: page
 menuItem: Schedule
 menuPosition: 2
----
+--- -->
 {% if site.docsUrl != "" %}
 You can download all required reading in the [Study materials]({{ site.docsUrl }}) at the faculty website.
 {% endif %}
