@@ -9,20 +9,20 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 Tuesday and Thursday (5:00pm to 6:20pm EST @ DH 1211)   
-### Instructors: [Daniel Justice](https://thequantumturtle.github.io/), Bhiksha Raj, Rita Singh 
+### Instructors: [Daniel Justice](https://thequantumturtle.github.io/), [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) 
 ### TA: <a href="https://www.linkedin.com/in/bisht-sarthak/" target="_blank">Sarthak Bisht</a>
 
 
 ## Announcements!
 The first few classes will be done remotely! Do **NOT** show up to DH 1211 or else you will be lonely!
-Class can be found on Zoom right [**HERE**]().
+Class can be found on Zoom right [**HERE**](https://cmu.zoom.us/j/92683738441?pwd=SzB1OTRnTUxpZ1FWYjAzempMdmliUT09).
 
 ## Location
 Doherty Hall Room 1211
 
 ## Important Links
-[**Piazza**](): For announcements and communication.  
-[**Canvas**](): For those fun assignments that everyone likes to do. 
+[**Piazza**](https://piazza.com/class/lrerj4lwa843n7): For announcements and communication.  
+[**Canvas**](https://canvas.cmu.edu/courses/39800): For those fun assignments that everyone likes to do. 
 
 ## Course Goals
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
